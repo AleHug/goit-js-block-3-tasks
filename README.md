@@ -1,1 +1,1 @@
-# goit-js-block-3-tasks-
+# goit-js-block-3-tasks
